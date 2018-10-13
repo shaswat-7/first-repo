@@ -3,6 +3,6 @@ int main()
 {
 int a,b,s;
 scanf("%d%d\n",&a,&b);
-s=a*b;
-printf("%d\n",&s);
+s=a+b;
+printf("%d\n",s);
 }
